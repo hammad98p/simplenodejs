@@ -1,6 +1,6 @@
 
 const port = 8000;
-const hostname = "localhost";
+const hostname = "0.0.0.0";
 
 const http = require('http');
 const fs = require('fs');
